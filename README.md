@@ -1,5 +1,7 @@
 # Keno-Game
 
+# Rules
+
 <img width="999" alt="Screen Shot 2022-04-30 at 12 28 45 AM" src="https://user-images.githubusercontent.com/93716153/166093046-bd223d65-1d2b-42ff-ae11-1ca094b7e92e.png">
 
 <img width="997" alt="Screen Shot 2022-04-30 at 12 34 13 AM" src="https://user-images.githubusercontent.com/93716153/166093052-13ce71e1-7119-4b59-9de1-d2f480009b71.png">
